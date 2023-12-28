@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: black;
+  min-width: 100vh;
+}
+
+button{
+  height: 100px;
+  width: 100px;
+  background-color: darkorange;
+  border-radius: 60px;
+  font-size: 70px;
+}
+
+button:hover{
+  background-color: antiquewhite;
+  cursor: pointer;
+}
+
+h2{
+  color:white;
+}
+.h{
+  margin-bottom: 20px;
+}
